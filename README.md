@@ -2,6 +2,7 @@
 
 Very basic playwright-test example
 
-npm install
-npx playwright install
-npx playwright test
+- npm install
+- npx playwright install
+- npx playwright test
+- 
